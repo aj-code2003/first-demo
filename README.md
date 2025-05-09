@@ -1,2 +1,3 @@
 # first-demo
-this is my first code on github
+this is my first github repository
+Author:Aditya Jatav
